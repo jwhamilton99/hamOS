@@ -1,0 +1,42 @@
+{
+	"home": {
+		"ios": {
+			"affirmations": "https://www.jwhamilton.co/affirmations",
+			"femto": "https://www.femtoeditor.com",
+			"dot": "https://www.dotmusicplayer.com"
+		},
+		"macos": {
+			"menu-bar-splitter": "https://github.com/jwhamilton99/menu-bar-splitter",
+			"dark-mode-wallpaper": "https://github.com/jwhamilton99/dark-mode-wallpaper"
+		},
+		"tools": {
+			"redcap-sheets": "https://github.com/nnapior/redcap-sheets",
+			"stocks4me": "https://github.com/NoahHodgson/CISC474-stocks4me",
+			"hackett-number": "https://www.jwhamilton.co/whatismyhackettnumber",
+			"flashcards": "https://www.jwhamilton.co/flashcards",
+			"alfred-temp": "https://github.com/jwhamilton99/alfred-temp-conversion"
+		},
+		"miscellaneous": {
+			"old-town-bot": "https://www.twitter.com/oldtownbot",
+			"mac-pro-stare": "https://www.jwhamilton.co/thenewmacproisstaringatme",
+			"dogcow-rainbow-cursor": "https://www.jwhamilton.co/dogcowandrainbowcursor",
+			"experiments": {
+				"bubblegum": "https://www.jwhamilton.co/bubblegum",
+				"drift": "https://www.jwhamilton.co/drift",
+				"dvd": "https://www.jwhamilton.co/experiments/dvd",
+				"hey": "https://www.jwhamilton.co/hey",
+				"image-ascii": "https://www.jwhamilton.co/ascii-art/",
+				"keynote-day": "https://www.jwhamilton.co/isitkeynoteday",
+				"jony-cube": "https://www.jwhamilton.co/jonycube",
+				"neutrify": "https://github.com/jwhamilton99/neutrify",
+				"pom": "https://github.com/jwhamilton99/pom",
+				"snake": "https://www.jwhamilton.co/experiments/snake",
+				"things-labeled-incorrectly": "https://www.jwhamilton.co/thingslabeledincorrectly",
+				"titlebot": "https://www.jwhamilton.co/titlebot"
+			}
+		},
+		"main-site": "https://www.jwhamilton.co",
+		"twitter": "https://www.twitter.com/jwhamilton_",
+		"email": "mailto:me@jwhamilton.co"
+	}
+}
